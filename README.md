@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Goswami</h1>
-<h3 align="center">A full stack web developer and graphic designer from India</h3>
+<h3 align="center">A full stack web developer and YouTuber from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goswami2021vaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="goswami2021vaibhav" /> </p>
 
