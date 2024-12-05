@@ -7,17 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhav goswami" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav goswami?logo=twitter&style=for-the-badge" alt="vaibhav goswami" /></a> </p>
 
-- 🔭 I’m currently working on **College Management System**
-
-- 🌱 I’m currently learning **Android development**
-
 - 💬 Ask me about **Web development & Graphic Designing**
 
-- 📫 How to reach me **Twitter - https://twitter.com/Vaibhav30022340**
+- 📫 How to reach me **LinkedIn - https://www.linkedin.com/in/developer-goswami/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vaibhav goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav goswami" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developer-goswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav goswami" height="30" width="40" /></a>
 <a href="https://fb.com/vaibhav goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaibhav goswami" height="30" width="40" /></a>
 </p>
 
